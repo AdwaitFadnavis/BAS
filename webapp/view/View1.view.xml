@@ -5,6 +5,7 @@
             <Button text="my Button" />
             <Button text="hey I am from adwait branch, trying to change branch2"></Button>
             <Panel/>
+            <TextArea ></TextArea>
         </content>
     </Page>
 </mvc:View>
