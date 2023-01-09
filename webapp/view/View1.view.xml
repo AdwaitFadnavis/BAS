@@ -3,6 +3,7 @@
         <content>
             <Text id="idtext" text="This is plain text" />
             <Button text="my Button" />
+            <Button text="hey I am from adwait branch"></Button>
         </content>
     </Page>
 </mvc:View>
